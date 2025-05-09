@@ -1,26 +1,30 @@
-# Hai, saya @fajardwi45578! 👋
+# 👋 Halo, saya @fajardwi45578!
 
-Saya adalah seorang **Software Developer** yang bersemangat dalam membangun aplikasi modern dan skalabel.
+Saya seorang **Software Developer** yang bersemangat dalam menciptakan aplikasi yang inovatif dan efisien. Dengan pengalaman di berbagai teknologi, saya selalu berusaha untuk belajar dan berkembang.
 
 ---
 
-### 👀 Minat
-- Pengembangan web full-stack
-- Pengembangan aplikasi mobile
-- Sistem mikroservis berbasis cloud
-- Komunikasi real-time
-- Desain dan optimasi database
+### 🌟 Keahlian Saya
+- **Backend Development**: .NET, Go (Fiber), Node.js (Express, Nest.js)
+- **Frontend Development**: React, React Native, Next.js
+- **Database Management**: MySQL, Oracle DB, Redis
+- **Message Queues**: RabbitMQ, MQTT
 
-### 🌱 Sedang belajar
-- Pemrograman Go yang lebih mendalam dan pola concurrency
+### 🚀 Minat
+- Membangun aplikasi web dan mobile yang responsif
+- Mengembangkan sistem mikroservis yang scalable
+- Menerapkan solusi real-time untuk komunikasi data
+
+### 📚 Sedang Belajar
+- Memperdalam pemahaman tentang arsitektur microservices
 - Fitur-fitur terbaru di React dan Next.js
-- Sistem terdistribusi dengan RabbitMQ dan MQTT
+- Teknik concurrency di Go
 
-### 💞️ Mencari kolaborasi di
-- Proyek open-source yang melibatkan **.NET**, **React Native**, **React**, dan **Next.js**
-- API backend dan mikroservis menggunakan **Go (Fiber)**, **Node.js (Express, Nest.js)**
-- Streaming data real-time dan message broker seperti **Redis**, **RabbitMQ**, dan **MQTT**
-- Desain dan manajemen database dengan **MySQL** dan **Oracle DB**
+### 🤝 Mari Berkolaborasi!
+Saya terbuka untuk kolaborasi di proyek-proyek menarik, terutama yang melibatkan:
+- Pengembangan aplikasi open-source
+- API dan layanan backend
+- Solusi berbasis cloud dan real-time
 
 ### 📫 Cara menghubungi saya
 - Email: fajardwi45578@gmail.com
